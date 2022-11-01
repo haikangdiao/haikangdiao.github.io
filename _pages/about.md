@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. Xiyuan Tang](https://tangresearch.top/people/index.html/). <br><br>
+Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. Xiyuan Tang](https://www.ime.pku.edu.cn/szll/rygc/t/1353236.htm). <br><br>
 Prior to joining PKU, I received the B.Eng. degree in electronic engineering from Fudan University, in 2019 and the M.S. degree in circuits and systems from Fudan University, in 2022. During my master, I was advised by [Prof. Wei Chen](http://www.it.fudan.edu.cn/Data/View/1005/). <br><br>
 My research interests include computing-in-memory, model compression, and acceleration.<br>
 
