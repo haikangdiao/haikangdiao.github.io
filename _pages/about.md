@@ -15,7 +15,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
-- **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by ISSCC 2023!!
+- **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
 - **Jun 2022** I joined PRIME research group as Ph.D. candidates.
 - **Jun 2022** I received the M.S. degree in circuits and systems from Fudan University.
 - **May 2022** Our recent work was accepted by IEEE Internet of Things Journal!
