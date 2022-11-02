@@ -48,7 +48,7 @@ In *10th EAI International Conference on Wireless Mobile Communication and Healt
 In *IEEE Transactions on Biomedical Circuits and Systems*, 2021 <br>
 
 [**Unobtrusive Smart Mat System for Sleep Posture Recognition**](https://ieeexplore.ieee.org/document/9401649/) <br>
-**Haikang Diao**, Chen Chen, Wei Chen, Wei Yuan, Amara Amara <br>
+**Haikang Diao**, Chen Chen, Wei Yuan, Amara Amara, Wei Chen <br>
 In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 <br>
 
