@@ -36,10 +36,10 @@ Honours
 
 Internship experience
 ======
-#### 1. Huawei Noah's Ark Lab（2021.07-2021.12）
+### 1. Huawei Noah's Ark Lab（2021.07-2021.12）
 - Using clustering grouping and weight truncation to achieve low bit-quantization for adderNet.
 - Implemented Adder-MLP using adder operator instead of multiplier operator, and used knowledge distillation to improve the accuracy.
 
-#### 2. OPPO AI Research Institute（2021.03-2021.06）
+### 2. OPPO AI Research Institute（2021.03-2021.06）
 - Quantization-aware training and post quantization based on MobileNet, EfficientNet
 - Model quantification, deployment and performance testing based on model deployment platforms such as Qualcomm SNPE and Alibaba MNN
