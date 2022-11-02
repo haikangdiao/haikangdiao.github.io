@@ -22,7 +22,7 @@ News
 - **Jun 2022** I received the M.S. degree in circuits and systems from Fudan University.
 - **May 2022** Our recent work was accepted by IEEE Internet of Things Journal!
 - **Jan 2021** Our recent work was accepted by IEEE Transactions on Biomedical Circuits and Systems!
-- **Jan 2021** Our recent work was accepted by IEEE International Symposium on Circuits and Systems (ISCAS) 2021!<br><br>
+- **Jan 2021** Our recent work was accepted by IEEE International Symposium on Circuits and Systems (ISCAS) 2021!<br>
 <br>
 
 Publications
@@ -49,7 +49,7 @@ In *IEEE Transactions on Biomedical Circuits and Systems*, 2021 <br>
 
 [**Unobtrusive Smart Mat System for Sleep Posture Recognition**](https://ieeexplore.ieee.org/document/9401649/) <br>
 **Haikang Diao**, Chen Chen, Wei Chen, Wei Yuan, Amara Amara <br>
-In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br><br>
+In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 <br>
 
 Honours
