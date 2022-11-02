@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. Xiyuan Tang](https://www.ime.pku.edu.cn/szll/rygc/t/1353236.htm). My email: diaohaikang@stu.pku.edu.cn <br><br>
+Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. Xiyuan Tang](https://www.ime.pku.edu.cn/szll/rygc/t/1353236.htm). 
+My email: diaohaikang@stu.pku.edu.cn <br><br>
 Prior to joining PKU, I received the B.Eng. degree in electronic engineering from Fudan University, in 2019 and the M.S. degree in circuits and systems from Fudan University, in 2022. During my master, I was advised by [Prof. Wei Chen](http://www.it.fudan.edu.cn/Data/View/1005/). <br><br>
 My research interests include computing-in-memory, model compression, and acceleration.<br><br>
 
@@ -21,7 +22,8 @@ News
 - **Jun 2022** I received the M.S. degree in circuits and systems from Fudan University.
 - **May 2022** Our recent work was accepted by IEEE Internet of Things Journal!
 - **Jan 2021** Our recent work was accepted by IEEE Transactions on Biomedical Circuits and Systems!
-- **Jan 2021** Our recent work was accepted by IEEE International Symposium on Circuits and Systems (ISCAS) 2021!<br>
+- **Jan 2021** Our recent work was accepted by IEEE International Symposium on Circuits and Systems (ISCAS) 2021!<br><br>
+<br>
 
 Publications
 ======
@@ -47,10 +49,13 @@ In *IEEE Transactions on Biomedical Circuits and Systems*, 2021 <br>
 
 [**Unobtrusive Smart Mat System for Sleep Posture Recognition**](https://ieeexplore.ieee.org/document/9401649/) <br>
 **Haikang Diao**, Chen Chen, Wei Chen, Wei Yuan, Amara Amara <br>
-In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
+In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br><br>
+<br>
 
 Honours
 ======
+<br>
 
 Experience
 ======
+<br>
