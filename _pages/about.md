@@ -16,7 +16,8 @@ My research interests include computing-in-memory, model compression, and accele
 News
 ======
 - **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
-- **Jun 2022** I joined PRIME research group as Ph.D. candidates.
+- **Sep 2022** Our recent work with colleagues during my internship at Huawei was accepted by NeurIPS 2022!
+- **Jul 2022** I joined PRIME research group as Ph.D. candidates.
 - **Jun 2022** I received the M.S. degree in circuits and systems from Fudan University.
 - **May 2022** Our recent work was accepted by IEEE Internet of Things Journal!
 - **Jan 2021** Our recent work was accepted by IEEE Transactions on Biomedical Circuits and Systems!
@@ -24,6 +25,10 @@ News
 
 Publications
 ======
+**Redistribution of Weights and Activations for AdderNet Quantization** <br>
+Ying Nie, Kai Han, **Haikang Diao**, Chuanjian Liu, Enhua Wu, Yunhe Wang<br>
+In *Thirty-sixth Conference on Neural Information Processing Systems(NeurIPS)*, 2022 <br>
+
 [**User-Tailored Hand Gesture Recognition System for Wearable Prosthesis and Armband Based on Surface Electromyogram**](https://ieeexplore.ieee.org/document/9931729) <br>
 Long Meng, Xinyu Jiang, Xiangyu Liu, Jiahao Fan, Haoran Ren, Yao Guo, **Haikang Diao**, Zihao Wang, Chen Chen, Chenyun Dai, Wei Chen<br>
 In *IEEE Transactions on Instrumentation and Measurement*, 2022 <br>
@@ -43,3 +48,9 @@ In *IEEE Transactions on Biomedical Circuits and Systems*, 2021 <br>
 [**Unobtrusive Smart Mat System for Sleep Posture Recognition**](https://ieeexplore.ieee.org/document/9401649/) <br>
 **Haikang Diao**, Chen Chen, Wei Chen, Wei Yuan, Amara Amara <br>
 In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
+
+Honours
+======
+
+Experience
+======
