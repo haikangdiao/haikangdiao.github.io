@@ -18,7 +18,7 @@ News
 ======
 - **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
 - **Sep 2022** Our recent work with colleagues during my internship at Huawei was accepted by NeurIPS 2022!
-- **Jul 2022** I joined PRIME research group as a Ph.D. candidates.
+- **Jul 2022** I joined PRIME research group as a Ph.D. candidate.
 - **Jun 2022** I received the M.S. degree in circuits and systems from Fudan University.
 - **May 2022** Our recent work was accepted by IEEE Internet of Things Journal!
 - **Jan 2021** Our recent work was accepted by IEEE Transactions on Biomedical Circuits and Systems!
