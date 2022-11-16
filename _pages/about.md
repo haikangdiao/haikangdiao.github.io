@@ -27,7 +27,7 @@ News
 
 Publications
 ======
-[**Redistribution of Weights and Activations for AdderNet Quantization**](https://ieeexplore.ieee.org/document/9931729](https://openreview.net/pdf?id=ZuSiW0EixjX) <br>
+[**Redistribution of Weights and Activations for AdderNet Quantization**](https://openreview.net/pdf?id=ZuSiW0EixjX) <br>
 Ying Nie, Kai Han, **Haikang Diao**, Chuanjian Liu, Enhua Wu, Yunhe Wang<br>
 In *Thirty-sixth Conference on Neural Information Processing Systems(NeurIPS)*, 2022 <br>
 
