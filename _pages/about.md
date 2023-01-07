@@ -28,7 +28,7 @@ News
 Publications
 ======
 **A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference** <br>
-Yifan He, Haikang Diao, Chen Tang, Wenbin Jia, Xiyuan Tang, Yuan Wang, Jinshan Yue, Xueqing Li, Huazhong Yang, Hongyang Jia, and Yongpan Liu<br>
+Yifan He, Haikang Diao, Chen Tang, Wenbin Jia, Xiyuan Tang, Yuan Wang, Jinshan Yue, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu<br>
 IEEE International Solid-State Circuits Conference (ISSCC), 2023.<br>
 
 [**Redistribution of Weights and Activations for AdderNet Quantization**](https://openreview.net/pdf?id=ZuSiW0EixjX) <br>
