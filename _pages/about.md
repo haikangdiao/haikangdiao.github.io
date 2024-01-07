@@ -16,6 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
+- **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
 - **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
 - **Sep 2022** Our recent work with colleagues during my internship at Huawei was accepted by NeurIPS 2022!
 - **Jul 2022** I joined PRIME research group as a Ph.D. candidate.
@@ -58,6 +59,7 @@ In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 
 Honours
 ======
+- Award for Scientific Research of Peking University, 2023
 - Outstanding graduate of Fudan University, 2022
 - National Third Prize of National Undergraduate Biomedical Engineering Innovation Design Competition, 2021.
 - The First Prize Scholarship, 2020
