@@ -29,7 +29,7 @@ News
 Publications
 ======
 **A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**<br>
-**Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<be>
+**Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2022.<br>
 
 [**A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10067305) <br>
