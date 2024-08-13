@@ -16,6 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
+- **Aug 2024** Our recent work Approximate Digita CIM Macro, was accepted by **JSSC 2024**!
 - **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
 - **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
 - **Sep 2022** Our recent work with colleagues during my internship at Huawei was accepted by NeurIPS 2022!
@@ -28,7 +29,11 @@ News
 
 Publications
 ======
-**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**<br>
+[**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
+**Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
+IN *IEEE Journal of Solid-State Circuits(JSSC)*, 2024.<br>
+
+[**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10528985)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024.<br>
 
