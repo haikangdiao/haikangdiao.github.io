@@ -31,7 +31,7 @@ Publications
 ======
 [**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
 **Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
-IN *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
+In *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
 
 [**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10528985)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
