@@ -16,7 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
-- **Aug 2024** Our recent work Approximate Digita CIM Macro, was accepted by **JSSC 2024**!
+- **Aug 2024** Our recent work Approximate Digital CIM Macro, was accepted by **JSSC 2024**!
 - **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
 - **Oct 2022** Our recent work with Prof. Liu of Tsinghua, Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro, was accepted by **ISSCC 2023**!!
 - **Sep 2022** Our recent work with colleagues during my internship at Huawei was accepted by NeurIPS 2022!
@@ -31,7 +31,7 @@ Publications
 ======
 [**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
 **Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
-IN *IEEE Journal of Solid-State Circuits (JSSC)*, 2024.<br>
+IN *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (Top-1 Journal of the IC design)<br>
 
 [**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10528985)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
@@ -39,7 +39,7 @@ In *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024.<br>
 
 [**A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10067305) <br>
 Yifan He, **Haikang Diao**, Chen Tang, Wenbin Jia, Xiyuan Tang, Yuan Wang, Jinshan Yue, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu<br>
-In *IEEE International Solid-State Circuits Conference (ISSCC)*, 2023.<br>
+In *IEEE International Solid-State Circuits Conference (ISSCC)*, 2023. (Top-1 Conference of the IC design)<br>
 
 [**Redistribution of Weights and Activations for AdderNet Quantization**](https://openreview.net/pdf?id=ZuSiW0EixjX) <br>
 Ying Nie, Kai Han, **Haikang Diao**, Chuanjian Liu, Enhua Wu, Yunhe Wang<br>
