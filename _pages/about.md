@@ -29,6 +29,10 @@ News
 
 Publications
 ======
+[**Lightweight Neural Network for Sleep Posture Classification Using Pressure Sensing Mat at Various Sensor Densities**](https://ieeexplore.ieee.org/document/10659869)<br>
+Shaonan Wu, **Haikang Diao**, Yi Feng, Yiyuan Zhang, Hongyu Chen, Yasemin M. Akay, Metin Akay, Chen Chen, Wei Chen<br>
+In *IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE)*, 2024.<br>
+
 [**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
 **Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
