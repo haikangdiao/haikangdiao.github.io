@@ -31,7 +31,7 @@ News
 Publications
 ======
 **SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**<br>
-**Haikang Diao**,  Haoyi Zhang, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
+**Haikang Diao#**,  Haoyi Zhang#, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
 In *Design, Automation and Test in Europe Conference (DATE)*, March. 2025.<br>
 
 [**Lightweight Neural Network for Sleep Posture Classification Using Pressure Sensing Mat at Various Sensor Densities**](https://ieeexplore.ieee.org/document/10659869)<br>
