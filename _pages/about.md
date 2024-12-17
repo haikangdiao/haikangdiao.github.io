@@ -16,7 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
-- **Dec 2024** Our recent work One-shot FP CIM Macro, was accepted by **JSSC 2024**!
+- **Dec 2024** Our recent work One-shot FP CIM Engine, was accepted by **JSSC 2024**!
 - **Nov 2024** Our recent work Digital CIM Compiler, was accepted by **DATE 2025**!
 - **Aug 2024** Our recent work Approximate Digital CIM Macro, was accepted by **JSSC 2024**!
 - **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
