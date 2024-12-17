@@ -16,6 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
+- **Dec 2024** Our recent work One-shot FP CIM Macro, was accepted by **JSSC 2024**!
 - **Nov 2024** Our recent work Digital CIM Compiler, was accepted by **DATE 2025**!
 - **Aug 2024** Our recent work Approximate Digital CIM Macro, was accepted by **JSSC 2024**!
 - **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
@@ -30,6 +31,10 @@ News
 
 Publications
 ======
+**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**<br>
+**Haikang Diao#**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
+In *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
+
 **SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**<br>
 **Haikang Diao#**,  Haoyi Zhang#, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
 In *Design, Automation and Test in Europe Conference (DATE)*, March. 2025.<br>
