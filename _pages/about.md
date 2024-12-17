@@ -33,11 +33,11 @@ Publications
 ======
 **A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**<br>
 **Haikang Diao#**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
-In *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
+In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<br>
 
 **SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**<br>
 **Haikang Diao#**,  Haoyi Zhang#, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
-In *Design, Automation and Test in Europe Conference (DATE)*, March. 2025.<br>
+In *Design, Automation and Test in Europe Conference (**DATE**)*, March. 2025.<br>
 
 [**Lightweight Neural Network for Sleep Posture Classification Using Pressure Sensing Mat at Various Sensor Densities**](https://ieeexplore.ieee.org/document/10659869)<br>
 Shaonan Wu, **Haikang Diao**, Yi Feng, Yiyuan Zhang, Hongyu Chen, Yasemin M. Akay, Metin Akay, Chen Chen, Wei Chen<br>
@@ -45,11 +45,11 @@ In *IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNS
 
 [**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
 **Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
-In *IEEE Journal of Solid-State Circuits (JSSC)*, 2024. (**Top-1 Journal of the IC design**)<br>
+In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<br>
 
 [**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10528985)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
-In *IEEE Custom Integrated Circuits Conference (CICC)*, Apr. 2024.<br>
+In *IEEE Custom Integrated Circuits Conference (**CICC**)*, Apr. 2024.<br>
 
 [**A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10067305) <br>
 Yifan He, **Haikang Diao**, Chen Tang, Wenbin Jia, Xiyuan Tang, Yuan Wang, Jinshan Yue, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu<br>
