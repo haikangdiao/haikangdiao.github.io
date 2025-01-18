@@ -82,7 +82,7 @@ In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 
 Honours
 ======
-- Award for Scientific Research of Peking University, 2023
+- Award for Scientific Research of Peking University, 2023,2024
 - Outstanding graduate of Fudan University, 2022
 - National Third Prize of National Undergraduate Biomedical Engineering Innovation Design Competition, 2021.
 - The First Prize Scholarship, 2020
