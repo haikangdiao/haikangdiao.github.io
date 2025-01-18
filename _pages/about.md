@@ -16,7 +16,7 @@ My research interests include computing-in-memory, model compression, and accele
 
 News
 ======
-- **Dec 2024** Our recent work One-shot FP CIM Engine, was accepted by **JSSC 2024**!
+- **Dec 2024** Our recent work One-shot FP CIM Engine, was accepted by **JSSC 2025**!
 - **Nov 2024** Our recent work Digital CIM Compiler, was accepted by **DATE 2025**!
 - **Aug 2024** Our recent work Approximate Digital CIM Macro, was accepted by **JSSC 2024**!
 - **Jan 2024** Our recent work One-shot FP CIM engine, was accepted by **CICC 2024**!
@@ -31,7 +31,7 @@ News
 
 Publications
 ======
-**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**<br>
+[**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10829928)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<br>
 
