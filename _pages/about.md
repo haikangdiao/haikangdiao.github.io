@@ -33,9 +33,9 @@ Publications
 ======
 [**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10829928)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
-In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<br>
+In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<be>
 
-**SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**<br>
+[**SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support**](https://arxiv.org/abs/2505.09451#)<br>
 **Haikang Diao#**,  Haoyi Zhang#, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
 In *Design, Automation and Test in Europe Conference (**DATE**)*, March. 2025.<br>
 
