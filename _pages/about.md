@@ -12,10 +12,11 @@ Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. X
 My email: diaohaikang@stu.pku.edu.cn <br><br>
 Prior to joining PKU, I received the B.Eng. degree in electronic engineering from Fudan University, in 2019 and the M.S. degree in circuits and systems from Fudan University, in 2022. During my master, I was advised by [Prof. Wei Chen](http://www.it.fudan.edu.cn/Data/View/1005/). <br><br>
 My research interests include computing-in-memory, model compression, and acceleration.<br><br>
-In addition, **I am a reviewer for JSSC, SSCL, TNNSRE and ISCAS**.
+In addition, **I am a reviewer for JSSC, SSCL, TCASAI, TNNSRE and ISCAS**.
 
 News
 ======
+- **Oct 2025** Our recent work Adder-DCIM, was accepted by **ICCAD 2025**!
 - **Dec 2024** Our recent work One-shot FP CIM Engine, was accepted by **JSSC 2025**!
 - **Nov 2024** Our recent work Digital CIM Compiler, was accepted by **DATE 2025**!
 - **Aug 2024** Our recent work Approximate Digital CIM Macro, was accepted by **JSSC 2024**!
@@ -31,6 +32,10 @@ News
 
 Publications
 ======
+[**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**]<br>
+**Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang and Xiyuan Tang<br>
+In *The 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**)* <be>
+
 [**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10829928)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2025. (**Top-1 Journal of the IC design**)<be>
