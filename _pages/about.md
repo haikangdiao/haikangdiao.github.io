@@ -32,7 +32,7 @@ News
 
 Publications
 ======
-[**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**]<br>
+**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**<br>
 **Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang and Xiyuan Tang<br>
 In *The 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**)* <be>
 
