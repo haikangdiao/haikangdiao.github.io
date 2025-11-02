@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV_EN"
-    url: /files/Haikang_Diao_CV.pdf
+  # - title: "CV_EN"
+  #   url: /files/Haikang_Diao_CV.pdf
     
   - title: "CV_CN"
     url: /files/刁海康-简历0922.pdf
