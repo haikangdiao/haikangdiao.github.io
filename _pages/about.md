@@ -87,6 +87,7 @@ In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 
 Honours
 ======
+- Dean's Scholarship(Outstanding Award) (Top 5%), 2025
 - National Scholarship (Top 3%), 2025
 - Award for Scientific Research of Peking University, 2023,2024
 - Outstanding graduate of Fudan University, 2022
@@ -105,4 +106,5 @@ Internship experience
 ### 2. OPPO AI Research Institute（2021.03-2021.06）
 - Quantization-aware training and post quantization based on MobileNet, EfficientNet
 - Model quantification, deployment and performance testing based on model deployment platforms such as Qualcomm SNPE and Alibaba MNN
+
 
