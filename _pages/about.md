@@ -32,8 +32,8 @@ News
 
 Publications
 ======
-**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**<br>
-**Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang and Xiyuan Tang<br>
+[**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**](https://ieeexplore.ieee.org/document/11240916)<br>
+**Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang, Xiyuan Tang<br>
 In *The 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**)* <be>
 
 [**A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10829928)<br>
@@ -106,5 +106,6 @@ Internship experience
 ### 2. OPPO AI Research Institute（2021.03-2021.06）
 - Quantization-aware training and post quantization based on MobileNet, EfficientNet
 - Model quantification, deployment and performance testing based on model deployment platforms such as Qualcomm SNPE and Alibaba MNN
+
 
 
