@@ -99,7 +99,7 @@ Honours
 
 Internship experience
 ======
-### 1. Huawei Noah's Ark Lab（2025.05-2026.01）
+### 1. Witmem Architecture Department（2025.05-2026.01）
 - Analog computing-in-memory architecture design and design space exploration.
 - Hardware & system modeling and analysis.
 
@@ -110,6 +110,7 @@ Internship experience
 ### 3. OPPO AI Research Institute（2021.03-2021.06）
 - Quantization-aware training and post quantization based on MobileNet, EfficientNet
 - Model quantification, deployment and performance testing based on model deployment platforms such as Qualcomm SNPE and Alibaba MNN
+
 
 
 
