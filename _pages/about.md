@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Haikang Diao, a Ph.D. student at Peking University, advised by [Prof. Xiyuan Tang](https://ic.pku.edu.cn/szdw/zzjs/jcdlsjx1/txy/index.htm). <br>
+Hi! I am Haikang Diao, a final year Ph.D. student at **Peking University**, advised by [Prof. Xiyuan Tang](https://ic.pku.edu.cn/szdw/zzjs/jcdlsjx1/txy/index.htm). <br>
 My email: diaohaikang@stu.pku.edu.cn <br><br>
-Prior to joining PKU, I received the B.Eng. degree in electronic engineering from Fudan University, in 2019 and the M.S. degree in circuits and systems from Fudan University, in 2022. During my master, I was advised by [Prof. Wei Chen](http://www.it.fudan.edu.cn/Data/View/1005/). <br><br>
-My research interests include computing-in-memory, model compression, and acceleration.<br><br>
-In addition, **I am a reviewer for JSSC, SSCL, TCASAI, TNNSRE and ISCAS**.
+I received the B.Eng. degree in electronic engineering from Fudan University in 2019 and the M.S. degree in circuits and systems from Fudan University in 2022. During my master, I was advised by [Prof. Wei Chen](http://www.it.fudan.edu.cn/Data/View/1005/). <br><br>
+My research interests include **computing-in-memory, model compression, and acceleration**.<br><br>
+In addition, **I am a reviewer for JSSC, SSCL, TCASAI, TNNSRE, and ISCAS**.
 
 News
 ======
@@ -30,7 +30,7 @@ News
 - **Jan 2021** Our recent work was accepted by IEEE International Symposium on Circuits and Systems (ISCAS) 2021!
 <br><br>
 
-Publications
+First/Co-first Author Publications
 ======
 [**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**](https://ieeexplore.ieee.org/document/11240916)<br>
 **Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang, Xiyuan Tang<br>
@@ -44,10 +44,6 @@ In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2025. (**Top-1 Journal of 
 **Haikang Diao#**,  Haoyi Zhang#, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang and Xiyuan Tang<br>
 In *Design, Automation and Test in Europe Conference (**DATE**)*, March. 2025.<br>
 
-[**Lightweight Neural Network for Sleep Posture Classification Using Pressure Sensing Mat at Various Sensor Densities**](https://ieeexplore.ieee.org/document/10659869)<br>
-Shaonan Wu, **Haikang Diao**, Yi Feng, Yiyuan Zhang, Hongyu Chen, Yasemin M. Akay, Metin Akay, Chen Chen, Wei Chen<br>
-In *IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE)*, 2024.<br>
-
 [**A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10622078)<br>
 **Haikang Diao**, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of the IC design**)<br>
@@ -55,18 +51,6 @@ In *IEEE Journal of Solid-State Circuits (**JSSC**)*, 2024. (**Top-1 Journal of 
 [**A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning for Edge AI**](https://ieeexplore.ieee.org/document/10528985)<br>
 **Haikang Diao**, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang<br>
 In *IEEE Custom Integrated Circuits Conference (**CICC**)*, Apr. 2024.<br>
-
-[**A 28-nm 38-to-102-TOPS/W 8-b Multiply-Less Approximate Digital SRAM Compute-In-Memory Macro for Neural-Network Inference**](https://ieeexplore.ieee.org/document/10067305) <br>
-Yifan He, **Haikang Diao**, Chen Tang, Wenbin Jia, Xiyuan Tang, Yuan Wang, Jinshan Yue, Xueqing Li, Huazhong Yang, Hongyang Jia, Yongpan Liu<br>
-In *IEEE International Solid-State Circuits Conference (ISSCC)*, 2023. (**Top-1 Conference of the IC design**)<br>
-
-[**Redistribution of Weights and Activations for AdderNet Quantization**](https://openreview.net/pdf?id=ZuSiW0EixjX) <br>
-Ying Nie, Kai Han, **Haikang Diao**, Chuanjian Liu, Enhua Wu, Yunhe Wang<br>
-In *Thirty-sixth Conference on Neural Information Processing Systems(NeurIPS)*, 2022 <br>
-
-[**User-Tailored Hand Gesture Recognition System for Wearable Prosthesis and Armband Based on Surface Electromyogram**](https://ieeexplore.ieee.org/document/9931729) <br>
-Long Meng, Xinyu Jiang, Xiangyu Liu, Jiahao Fan, Haoran Ren, Yao Guo, **Haikang Diao**, Zihao Wang, Chen Chen, Chenyun Dai, Wei Chen<br>
-In *IEEE Transactions on Instrumentation and Measurement*, 2022 <br>
 
 [**Real-time and Cost-effective Smart Mat System based on Frequency Channel Selection for Sleep Posture Recognition in IoMT**](https://ieeexplore.ieee.org/document/9792252/) <br>
 **Haikang Diao**, Chen Chen, Xiangyu Liu, Amara Amara, Toshiyo Tamura, Benny Lo, Jiahao Fan, Long Meng, Wei Chen <br>
@@ -87,11 +71,12 @@ In *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2021 <br>
 
 Honours
 ======
+- Outstanding Graduate of Beijing (Top 5%), 2026
+- Outstanding Graduate of Peking University (Top 15%), 2026
+- National Scholarship (Top 5%), 2025
 - Dean's Scholarship(Outstanding Award) (Top 5%), 2025
-- National Scholarship (Top 3%), 2025
 - Award for Scientific Research of Peking University, 2023,2024
 - Outstanding graduate of Fudan University, 2022
-- National Third Prize of National Undergraduate Biomedical Engineering Innovation Design Competition, 2021.
 - The First Prize Scholarship, 2020
 - National Second Prize of China University Student Service Outsourcing Innovation and Entrepreneurship Competition(1%), 2019
 - Top Ten Students of the School of Information Science and Technology, 2019
@@ -99,7 +84,7 @@ Honours
 
 Internship experience
 ======
-### 1. Witmem Architecture Department（2025.05-2026.01）
+### 1. Witmem Architecture Department（2025.05-2026.02）
 - Analog computing-in-memory architecture design and design space exploration.
 - Hardware & system modeling and analysis.
 
