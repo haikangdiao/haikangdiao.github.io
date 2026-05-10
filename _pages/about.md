@@ -16,6 +16,7 @@ In addition, **I am a reviewer for JSSC, SSCL, TCASAI, TNNSRE, and ISCAS**.
 
 News
 ======
+- **May 2026** Our recent work AdapCIM, was accepted by **TCAS-AI 2026**!
 - **Oct 2025** Our recent work Adder-DCIM, was accepted by **ICCAD 2025**!
 - **Dec 2024** Our recent work One-shot FP CIM Engine, was accepted by **JSSC 2025**!
 - **Nov 2024** Our recent work Digital CIM Compiler, was accepted by **DATE 2025**!
@@ -32,6 +33,10 @@ News
 
 First/Co-first Author Publications
 ======
+**AdapCIM: A 28nm 73TOPS/W Adaptive Stationary Digital CIM Accelerator with Inter-Column/Row Sharing and Kernel-Wise Sparsity**<br>
+**Haikang Diao**, Bocheng Xu, Haoyang Luo,Youming Yang, Jiahao Song, Zihan Wu, Yaoyu Tao, Meiyin Yang, Yuan Wang, Xiyuan Tang<br>
+In *The 2026 IEEE Transactions on Circuits and Systems for Artificial Intelligence (**TCAS-AI**)* <be>
+
 [**Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference**](https://ieeexplore.ieee.org/document/11240916)<br>
 **Haikang Diao**, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang, Xiyuan Tang<br>
 In *The 2025 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**)* <be>
