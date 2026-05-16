@@ -33,7 +33,8 @@ News
 
 First/Co-first Author Publications
 ======
-**AdapCIM: A 28nm 73TOPS/W Adaptive Stationary Digital CIM Accelerator with Inter-Column/Row Sharing and Kernel-Wise Sparsity**<br>
+[**AdapCIM: A 28nm 73TOPS/W Adaptive Stationary Digital CIM Accelerator with Inter-Column/Row Sharing and Kernel-Wise Sparsity**](https://ieeexplore.ieee.org/document/11520194
+)<br>
 **Haikang Diao**, Bocheng Xu, Haoyang Luo,Youming Yang, Jiahao Song, Zihan Wu, Yaoyu Tao, Meiyin Yang, Yuan Wang, Xiyuan Tang<br>
 In *The 2026 IEEE Transactions on Circuits and Systems for Artificial Intelligence (**TCAS-AI**)* <be>
 
