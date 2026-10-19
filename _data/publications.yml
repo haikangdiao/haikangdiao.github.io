@@ -1,0 +1,80 @@
+# First/co-first-author publications. Newest first; copy one entry to add a paper.
+# author_note optionally labels Haikang Diao’s contribution.
+- title: A Refresh-Free eDRAM-CIM Accelerator With UniPD Design-Space Exploration for Unified Prefill-Decoding LLM
+    Inference
+  authors: Suyu Wang, Haikang Diao, Rongjia Bao, Qingyu Guo, Haoyang Luo, Yaoyu Tao, Meiyin Yang, Qiang Li, Shushan
+    Qiao, Yuan Wang, Xiyuan Tang
+  author_note: co-first author
+  venue: TCAS-I
+  year: 2026
+  venue_full: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  url: https://ieeexplore.ieee.org/document/11739312
+  doi: 10.1109/TCSI.2026.3738032
+  pages: 1–14
+- title: 'AdapCIM: A 28nm 73TOPS/W Adaptive Stationary Digital CIM Accelerator with Inter-Column/Row Sharing and
+    Kernel-Wise Sparsity'
+  authors: Haikang Diao, Bocheng Xu, Haoyang Luo, Youming Yang, Jiahao Song, Zihan Wu, Yaoyu Tao, Meiyin Yang, Yuan
+    Wang, Xiyuan Tang
+  venue: TCAS-AI
+  year: 2026
+  venue_full: IEEE Transactions on Circuits and Systems for Artificial Intelligence
+  url: https://ieeexplore.ieee.org/document/11520194
+- title: 'Adder-DCIM: A Parallel Bit-Flexible Digital CIM Joint Model Compression Framework for AdderNet Inference'
+  authors: Haikang Diao, Chuyue Tang, Bocheng Xu, Haoyang Luo, Meng Li, Yuan Wang, Xiyuan Tang
+  venue: ICCAD
+  year: 2025
+  venue_full: IEEE/ACM International Conference on Computer-Aided Design
+  url: https://ieeexplore.ieee.org/document/11240916
+- title: A Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device Fine-Tuning
+    for Edge AI
+  authors: Haikang Diao, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang
+  venue: JSSC
+  year: 2025
+  venue_full: IEEE Journal of Solid-State Circuits
+  url: https://ieeexplore.ieee.org/document/10829928
+- title: 'SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support'
+  authors: Haikang Diao*, Haoyi Zhang*, Jiahao Song, Haoyang Luo, Yibo Lin, Runsheng Wang, Yuan Wang, Xiyuan Tang
+  venue: DATE
+  year: 2025
+  venue_full: Design, Automation and Test in Europe Conference
+  url: https://arxiv.org/abs/2505.09451#
+- title: A Multiply-Less Approximate SRAM Compute-In-Memory Macro for Neural-Network Inference
+  authors: Haikang Diao, Yifan He, Xuan Li, Chen Tang, Wenbin Jia, Jinshan Yue, Haoyang Luo, Jiahao Song, Xueqing
+    Li, Huazhong Yang, Hongyang Jia, Yongpan Liu, Yuan Wang, Xiyuan Tang
+  venue: JSSC
+  year: 2024
+  venue_full: IEEE Journal of Solid-State Circuits
+  url: https://ieeexplore.ieee.org/document/10622078
+- title: A 28nm 128TFLOPS/W Computing-In-Memory Engine Supporting One-Shot Floating-Point NN Inference and On-Device
+    Fine-Tuning for Edge AI
+  authors: Haikang Diao, Haoyang Luo, Jiahao Song, Bocheng Xu, Runsheng Wang, Yuan Wang, Xiyuan Tang
+  venue: CICC
+  year: 2024
+  venue_full: IEEE Custom Integrated Circuits Conference
+  url: https://ieeexplore.ieee.org/document/10528985
+- title: Real-time and Cost-effective Smart Mat System based on Frequency Channel Selection for Sleep Posture Recognition
+    in IoMT
+  authors: Haikang Diao, Chen Chen, Xiangyu Liu, Amara Amara, Toshiyo Tamura, Benny Lo, Jiahao Fan, Long Meng, Wei
+    Chen
+  venue: IoT-J
+  year: 2022
+  venue_full: IEEE Internet of Things Journal
+  url: https://ieeexplore.ieee.org/document/9792252/
+- title: Edge-Computing System based on Smart Mat for Sleep Posture Recognition in IoMT
+  authors: Haikang Diao, Chen Chen, Xiangyu Liu, Amara Amara, Wei Chen
+  venue: MobiHealth
+  year: 2021
+  venue_full: EAI International Conference on Wireless Mobile Communication and Healthcare
+  url: https://link.springer.com/chapter/10.1007/978-3-031-06368-8_6
+- title: Deep Residual Networks for Sleep Posture Recognition With Unobtrusive Miniature Scale Smart Mat System
+  authors: Haikang Diao, Chen Chen, Wei Yuan, Amara Amara, Wei Chen
+  venue: TBioCAS
+  year: 2021
+  venue_full: IEEE Transactions on Biomedical Circuits and Systems
+  url: https://ieeexplore.ieee.org/document/9333679/
+- title: Unobtrusive Smart Mat System for Sleep Posture Recognition
+  authors: Haikang Diao, Chen Chen, Wei Yuan, Amara Amara, Wei Chen
+  venue: ISCAS
+  year: 2021
+  venue_full: IEEE International Symposium on Circuits and Systems
+  url: https://ieeexplore.ieee.org/document/9401649/

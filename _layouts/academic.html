@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.data.profile.name | escape }} · AI Hardware Research</title>
+  <meta name="description" content="{{ site.data.profile.intro | strip_html | escape }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.data.profile.name | escape }} · AI Hardware Research">
+  <meta property="og:description" content="{{ site.data.profile.intro | strip_html | escape }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.data.profile.photo }}">
+  <meta name="theme-color" content="#f8f9fb">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/academic.css">
+</head>
+<body>
+  {% assign profile = site.data.profile %}
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="#about" aria-label="Haikang Diao, home">HD<span class="wordmark-dot">.</span></a>
+      <nav aria-label="Main navigation">
+        <a href="#about">About</a>
+        <a href="#publications">Publications</a>
+        <a href="#experience">Experience</a>
+        <a href="{{ site.baseurl }}{{ profile.cv }}">CV <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <div class="page-shell">
+    <aside class="profile-sidebar" aria-label="Profile and contact">
+      <img class="portrait" src="{{ site.baseurl }}{{ profile.photo }}" alt="Portrait of Haikang Diao" width="216" height="240">
+      <div class="profile-details">
+        <p class="sidebar-role">{{ profile.role | escape }}</p>
+        <p class="sidebar-employer">{{ profile.employer | escape }}</p>
+        <p class="sidebar-degree">{{ profile.degree | escape }}</p>
+        <p class="sidebar-location">{{ profile.location | escape }}</p>
+        <div class="contact-links">
+          <a class="contact-email" href="mailto:{{ profile.email | escape }}">{{ profile.email | escape }}</a>
+          <a href="{{ profile.scholar | escape }}">Google Scholar <span aria-hidden="true">↗</span></a>
+          <a href="{{ profile.github | escape }}">GitHub <span aria-hidden="true">↗</span></a>
+          <a href="{{ profile.orcid | escape }}">ORCID <span aria-hidden="true">↗</span></a>
+          <a href="{{ site.baseurl }}{{ profile.cv }}">Curriculum vitae <span class="link-note">中文 PDF</span></a>
+        </div>
+        <div class="sidebar-note"><span class="small-label">RESEARCH</span><p>Systems · Architectures · AI infrastructure</p></div>
+      </div>
+    </aside>
+    <main id="main">
+      <section class="intro section" id="about" aria-labelledby="profile-name">
+        <p class="eyebrow">AI SYSTEMS &amp; INFRASTRUCTURE</p>
+        <h1 id="profile-name">{{ profile.name | escape }} <span class="chinese-name" lang="zh-CN">{{ profile.name_cn | escape }}</span></h1>
+        <p class="intro-lead">{{ profile.intro }}</p>
+        <p>{{ profile.biography }}</p>
+        <p>{{ profile.academic_research }}</p>
+        <p>{{ profile.achievements }}</p>
+        <ul class="research-tags" aria-label="Research interests">{% for topic in profile.research %}<li>{{ topic | escape }}</li>{% endfor %}</ul>
+      </section>
+      <section class="section news-section" id="news" aria-labelledby="news-title">
+        <div class="section-heading"><h2 id="news-title">News</h2><span class="section-caption">Recent updates</span></div>
+        <ul class="news-list">{% for item in site.data.news limit:5 %}
+          <li><span class="news-date">{{ item.date | escape }}</span><span>{{ item.text | escape }}</span></li>{% endfor %}
+        </ul>
+        {% if site.data.news.size > 5 %}<details class="older-news"><summary>Earlier news <span class="detail-count">{{ site.data.news.size | minus: 5 }}</span></summary>
+          <ul class="news-list">{% for item in site.data.news offset:5 %}<li><span class="news-date">{{ item.date | escape }}</span><span>{{ item.text | escape }}</span></li>{% endfor %}</ul>
+        </details>{% endif %}
+      </section>
+      <section class="section" id="publications" aria-labelledby="publications-title">
+        <div class="section-heading"><h2 id="publications-title">Publications</h2><a class="section-link" href="{{ profile.scholar | escape }}">Google Scholar <span aria-hidden="true">↗</span></a></div>
+        <p class="section-note">First / co-first author publications. <span>* Equal contribution.</span></p>
+        <div class="publication-list">
+        {% for paper in site.data.publications %}
+          <article class="publication">
+            <div class="publication-meta"><span class="publication-year">{{ paper.year }}</span><span class="venue-badge">{{ paper.venue | escape }}</span></div>
+            <div class="publication-content">
+              <h3><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></h3>
+              {% assign author_note = paper.author_note | default: '' %}
+              {% capture highlighted_author %}<strong>Haikang Diao</strong>{% if author_note != '' %} <span class="cofirst-note">({{ author_note | escape }})</span>{% endif %}{% endcapture %}
+              <p class="authors">{{ paper.authors | escape | replace: 'Haikang Diao', highlighted_author }}</p>
+              <p class="publication-venue"><strong>{{ paper.venue_full | escape }}</strong> <span aria-hidden="true">·</span> <span class="publication-year-link">{{ paper.year }} <a class="paper-link" href="{{ paper.url | escape }}">Paper <span aria-hidden="true">↗</span></a></span></p>
+            </div>
+          </article>
+        {% endfor %}
+        </div>
+      </section>
+      <section class="section" id="experience" aria-labelledby="experience-title">
+        <div class="section-heading"><h2 id="experience-title">Experience</h2><span class="section-caption">Research internships</span></div>
+        <div class="experience-list">{% for item in site.data.experience %}
+          <article class="experience-item">
+            <div class="experience-heading"><h3>{{ item.name | escape }} <span>{{ item.team | escape }}</span></h3><span class="date">{{ item.date | escape }}</span></div>
+            <ul>{% for point in item.points %}<li>{{ point | escape }}</li>{% endfor %}</ul>
+          </article>{% endfor %}
+        </div>
+      </section>
+      <section class="section" id="education" aria-labelledby="education-title">
+        <div class="section-heading"><h2 id="education-title">Education</h2></div>
+        <ul class="education-list">{% for item in profile.education %}<li><span class="date">{{ item.year | escape }}</span><div><strong>{{ item.school | escape }}</strong><span>{{ item.degree | escape }}</span></div></li>{% endfor %}</ul>
+      </section>
+      <section class="section" id="honors" aria-labelledby="honors-title">
+        <div class="section-heading"><h2 id="honors-title">Honors &amp; awards</h2></div>
+        <ul class="honors-list">{% for item in site.data.honors %}<li><span class="date">{{ item.year | escape }}</span><span>{{ item.title | escape }}{% if item.note != '' %} <span class="honor-note">({{ item.note | escape }})</span>{% endif %}</span></li>{% endfor %}</ul>
+      </section>
+      <section class="section service-section" id="service" aria-labelledby="service-title">
+        <div class="section-heading"><h2 id="service-title">Academic service</h2></div>
+        <p>{{ profile.service | escape }}</p>
+      </section>
+    </main>
+  </div>
+  <footer class="site-footer"><div><span>© {{ site.time | date: '%Y' }} {{ profile.name | escape }}</span><span>Built with Jekyll · <a href="#about">Back to top ↑</a></span></div></footer>
+</body>
+</html>

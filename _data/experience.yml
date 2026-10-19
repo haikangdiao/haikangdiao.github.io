@@ -1,0 +1,18 @@
+- name: Witmem
+  team: Architecture Department
+  date: May 2025 – Feb 2026
+  points:
+  - Analog computing-in-memory architecture design and design space exploration.
+  - Hardware and system modeling and analysis.
+- name: Huawei
+  team: Noah’s Ark Lab
+  date: Jul – Dec 2021
+  points:
+  - Low-bit AdderNet quantization using clustering-based grouping and weight truncation.
+  - Adder-MLP design with addition-based operators and knowledge distillation.
+- name: OPPO
+  team: AI Research Institute
+  date: Mar – Jun 2021
+  points:
+  - Quantization-aware training and post-training quantization for MobileNet and EfficientNet.
+  - Model deployment and performance evaluation with Qualcomm SNPE and Alibaba MNN.
