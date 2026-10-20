@@ -1,0 +1,65 @@
+# Interface labels for both homepages.
+en:
+  title: Haikang Diao · AI Hardware Research
+  path: /
+  locale: en_US
+  skip: Skip to content
+  home: Haikang Diao, home
+  nav: Main navigation
+  about: About
+  publications: Publications
+  experience: Experience
+  cv: CV
+  contact: Profile and contact
+  portrait: Portrait of Haikang Diao
+  cv_full: Curriculum vitae
+  cv_note: 中文 PDF
+  research: RESEARCH
+  research_short: Systems · Architectures · AI infrastructure
+  research_label: Research interests
+  news: News
+  recent: Recent updates
+  earlier: Earlier news
+  papers_note: First / co-first author publications.
+  equal: '* Equal contribution.'
+  cofirst: co-first author
+  paper: Paper
+  internships: Research internships
+  education: Education
+  honors: Honors & awards
+  service: Academic service
+  top: Back to top ↑
+  built: Built with Jekyll
+  language: Language selection
+zh:
+  title: 刁海康 · AI 系统与基础设施
+  path: /zh/
+  locale: zh_CN
+  skip: 跳转到正文
+  home: 刁海康，首页
+  nav: 主导航
+  about: 关于我
+  publications: 论文
+  experience: 经历
+  cv: 简历
+  contact: 个人信息与联系方式
+  portrait: 刁海康的照片
+  cv_full: 个人简历
+  cv_note: 中文 PDF
+  research: 研究方向
+  research_short: 系统 · 架构 · AI 基础设施
+  research_label: 研究方向
+  news: 最新动态
+  recent: 近期更新
+  earlier: 更早动态
+  papers_note: 第一作者 / 共同第一作者论文。
+  equal: '* 表示共同第一作者。'
+  cofirst: 共同第一作者
+  paper: 论文
+  internships: 科研实习
+  education: 教育经历
+  honors: 荣誉奖励
+  service: 学术服务
+  top: 返回顶部 ↑
+  built: 基于 Jekyll 构建
+  language: 语言选择

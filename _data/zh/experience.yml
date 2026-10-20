@@ -1,0 +1,18 @@
+- name: 知存科技
+  team: 架构部
+  date: 2025.05 – 2026.02
+  points:
+  - 模拟存内计算架构设计与设计空间探索。
+  - 硬件及系统建模与分析。
+- name: 华为
+  team: 诺亚方舟实验室
+  date: 2021.07 – 2021.12
+  points:
+  - 通过聚类分组与权重截断，实现 AdderNet 低比特量化。
+  - 基于加法算子设计 Adder-MLP，并利用知识蒸馏提升模型精度。
+- name: OPPO
+  team: AI 研究院
+  date: 2021.03 – 2021.06
+  points:
+  - 面向 MobileNet、EfficientNet 开展量化感知训练与训练后量化。
+  - 基于高通 SNPE、阿里巴巴 MNN 等平台开展模型部署与性能评估。

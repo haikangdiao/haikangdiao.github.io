@@ -1,8 +1,9 @@
 ---
 layout: academic
+lang: en
 permalink: /
 title: "Haikang Diao"
-excerpt: "Senior Researcher at Huawei. Ascend system architecture and AI infrastructure operator design."
+excerpt: "Senior Researcher at Huawei. Ascend system architecture and AI infrastructure design."
 author_profile: false
 redirect_from:
   - /about/

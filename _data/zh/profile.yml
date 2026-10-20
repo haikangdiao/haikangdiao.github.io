@@ -1,0 +1,29 @@
+name: 刁海康
+name_secondary: Haikang Diao
+degree: 北京大学 · 博士
+location: 中国 · 北京
+role: 高级研究员
+employer: 华为 · 计算产品线
+research:
+- 昇腾系统架构
+- AI 基础设施
+- 软硬件协同设计
+intro: 我现任华为计算产品线高级研究员，入选 <strong>Huawei’s <a href="https://career.huawei.com/reccampportal/portal5/topminds.html">Top
+  Minds</a> Program</strong>。目前主要从事<strong>昇腾系统架构设计</strong>与<strong>AI 基础设施设计</strong>，聚焦面向 AI 计算系统的软硬件协同优化。
+biography: 加入华为前，我于 2026 年获得<strong>北京大学集成电路学院博士学位</strong>，师从王源教授和<a href="https://ic.pku.edu.cn/szdw/zzjs/jcdlsjx1/txy/index.htm">唐希源研究员</a>。此前，我分别于
+  2019 年和 2022 年获得复旦大学电子工程学士学位与电路与系统硕士学位，硕士期间师从<a href="http://www.it.fudan.edu.cn/Data/View/1005/">陈炜教授</a>。
+academic_research: 博士期间，我围绕<strong>高能效 AI 芯片与系统</strong>开展算法—架构—电路协同设计，研究内容涵盖基于 SRAM/eDRAM 的存内计算、近似与浮点计算、自适应数据流和设计空间探索，贯穿电路设计、加速器架构及自动化设计工具。我主导设计了<strong>6
+  款 CIM 加速器，其中 5 款完成流片</strong>。硕士期间，我主要研究轻量化智能感知系统、模型压缩与嵌入式推理。
+achievements: 我以<strong>第一作者发表论文 11 篇（其中共同第一作者论文 2 篇）</strong>，研究成果发表于 <strong>JSSC、TCAS-I、ICCAD、DATE、CICC</strong>
+  等重要期刊与会议。曾获<strong>国家奖学金（2025）</strong>，并获评<strong>北京市及北京大学优秀毕业生（2026）</strong>。代表性研究成果见下方论文列表。
+service: 担任 JSSC、SSCL、TCAS-AI、TNNSRE 和 ISCAS 审稿人。
+education:
+- year: '2026'
+  degree: 博士 · 集成电路学院
+  school: 北京大学
+- year: '2022'
+  degree: 硕士 · 电路与系统
+  school: 复旦大学
+- year: '2019'
+  degree: 学士 · 电子工程
+  school: 复旦大学

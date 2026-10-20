@@ -2,9 +2,8 @@
 # author_note optionally labels Haikang Diao’s contribution.
 - title: A Refresh-Free eDRAM-CIM Accelerator With UniPD Design-Space Exploration for Unified Prefill-Decoding LLM
     Inference
-  authors: Suyu Wang, Haikang Diao, Rongjia Bao, Qingyu Guo, Haoyang Luo, Yaoyu Tao, Meiyin Yang, Qiang Li, Shushan
+  authors: Suyu Wang, Haikang Diao*, Rongjia Bao, Qingyu Guo, Haoyang Luo, Yaoyu Tao, Meiyin Yang, Qiang Li, Shushan
     Qiao, Yuan Wang, Xiyuan Tang
-  author_note: co-first author
   venue: TCAS-I
   year: 2026
   venue_full: 'IEEE Transactions on Circuits and Systems I: Regular Papers'

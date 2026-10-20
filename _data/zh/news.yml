@@ -1,0 +1,29 @@
+# 最新动态在前，与英文 _data/news.yml 同步维护。
+- date: 2026 年 6 月
+  text: 获得北京大学集成电路学院博士学位。
+- date: 2026 年 5 月
+  text: AdapCIM 论文被 IEEE TCAS-AI 录用。
+- date: 2025 年 10 月
+  text: Adder-DCIM 论文被 ICCAD 2025 录用。
+- date: 2024 年 12 月
+  text: 一步式浮点存内计算引擎论文被 IEEE JSSC 录用。
+- date: 2024 年 11 月
+  text: 数字存内计算编译器论文被 DATE 2025 录用。
+- date: 2024 年 8 月
+  text: 近似数字存内计算宏论文被 IEEE JSSC 录用。
+- date: 2024 年 1 月
+  text: 一步式浮点存内计算引擎论文被 CICC 2024 录用。
+- date: 2022 年 10 月
+  text: 与清华大学刘勇攀教授团队合作的无乘法近似数字 SRAM 存内计算宏论文被 ISSCC 2023 录用。
+- date: 2022 年 9 月
+  text: 与华为同事合作的研究成果被 NeurIPS 2022 录用。
+- date: 2022 年 7 月
+  text: 加入 PRIME 课题组，开始博士阶段研究。
+- date: 2022 年 6 月
+  text: 获得复旦大学电路与系统硕士学位。
+- date: 2022 年 5 月
+  text: 智能床垫相关研究被 IEEE Internet of Things Journal 录用。
+- date: 2021 年 1 月
+  text: 智能床垫相关研究被 IEEE Transactions on Biomedical Circuits and Systems 录用。
+- date: 2021 年 1 月
+  text: 智能床垫相关研究被 ISCAS 2021 录用。

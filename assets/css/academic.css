@@ -47,11 +47,10 @@ nav a { color: #3d4b5f; font-size: 14px; font-weight: 600; padding: 12px 0; }
 .sidebar-note p { font-size: 13px; color: var(--muted); margin-top: 6px; }
 main { min-width: 0; }
 .section { margin-bottom: 39px; scroll-margin-top: 25px; }
-.eyebrow { font-size: 12px; letter-spacing: 2px; font-weight: 650; color: var(--accent); margin-bottom: 8px; }
 h1 { font-size: 34px; line-height: 1.25; letter-spacing: -.8px; margin-bottom: 21px; }
 .chinese-name { font-size: 21px; font-weight: 400; color: #718094; margin-left: 10px; white-space: nowrap; letter-spacing: 1px; }
 .intro-lead { color: #2f3e50; }
-.intro p:not(.eyebrow) { max-width: 760px; }
+.intro p { max-width: 760px; }
 .research-tags { display: flex; flex-wrap: wrap; list-style: none; gap: 7px; margin: 20px 0 0; padding: 0; }
 .research-tags li { padding: 3px 10px; color: #496075; border: 1px solid #dce5ec; background: #f0f4f7; border-radius: 3px; font-size: 13px; font-weight: 500; }
 .section-heading { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px 16px; border-bottom: 1px solid var(--line); padding-bottom: 10px; margin-bottom: 18px; }
@@ -130,3 +129,30 @@ h2 { font-size: 21px; line-height: 1.4; letter-spacing: -.3px; }
   .section { margin-bottom: 20px; } .publication { padding: 12px 0; break-inside: avoid; }
   h2 { font-size: 17px; } .site-footer > div { margin: 0; } a { color: inherit; }
 }
+
+/* Bilingual navigation and Chinese typography. */
+.header-controls { display: flex; align-items: center; gap: 28px; }
+.language-switch { display: flex; gap: 2px; padding: 3px; border: 1px solid #d5dfe7; border-radius: 7px; background: #edf2f6; }
+.language-switch a { padding: 4px 10px; min-height: 32px; display: flex; align-items: center; justify-content: center; font-size: 13px; line-height: 1.5; border-radius: 4px; }
+.language-switch a[aria-current="page"] { background: white; color: #163e58; box-shadow: 0 1px 3px #24314518; font-weight: 700; }
+html[lang="zh-CN"] body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", Arial, sans-serif; line-height: 1.85; }
+html[lang="zh-CN"] .intro p { line-height: 1.95; }
+html[lang="zh-CN"] h1, html[lang="zh-CN"] h2 { letter-spacing: .02em; }
+html[lang="zh-CN"] .chinese-name { font-size: 20px; letter-spacing: 0; font-weight: 500; }
+html[lang="zh-CN"] .news-list li { grid-template-columns: 104px minmax(0,1fr); }
+@media (max-width: 760px) {
+  .header-controls { gap: 16px; }
+  .main-nav { gap: 16px; }
+  .language-switch a { min-height: 36px; }
+}
+@media (max-width: 560px) {
+  .header-inner { flex-wrap: wrap; padding-top: 12px; padding-bottom: 10px; gap: 6px; }
+  .header-controls { display: contents; }
+  .main-nav { order: 3; width: 100%; justify-content: space-between; gap: 10px; }
+  .main-nav a { padding: 7px 0; font-size: 14px; }
+  .language-switch { margin-left: auto; }
+  .language-switch a { padding: 5px 12px; }
+  html[lang="zh-CN"] .news-list li { grid-template-columns: 96px minmax(0,1fr); }
+}
+
+.cofirst-marker { font-size: .8em; line-height: 0; vertical-align: super; color: var(--accent); font-weight: 700; }

@@ -1,4 +1,3 @@
-# Profile and biography. intro, biography, academic_research and achievements permit trusted HTML.
 name: Haikang Diao
 name_cn: 刁海康
 degree: Ph.D., Peking University
@@ -14,12 +13,12 @@ research:
 - AI infrastructure
 - Hardware–software co-design
 intro: I am a Senior Researcher in Huawei’s Computing Product Line, selected for <strong>Huawei’s <a href="https://career.huawei.com/reccampportal/portal5/topminds.html">Top
-  Minds</a></strong> Program. My work centers on <strong>Ascend system architecture</strong> and <strong>AI infrastructure
-  operator design</strong>, with a focus on hardware–software co-design for AI computing systems.
+  Minds</a></strong> Program. My work centers on <strong>Ascend system architecture</strong> and <strong>AI
+  infrastructure design</strong>, with a focus on hardware–software co-design for AI computing systems.
 biography: Prior to joining Huawei, I received my <strong>Ph.D. from the School of Integrated Circuits at Peking
   University</strong> in 2026, working with Prof. Yuan Wang and <a href="https://ic.pku.edu.cn/szdw/zzjs/jcdlsjx1/txy/index.htm">Prof.
-  Xiyuan Tang</a>. I received my B.Eng. and M.S. degrees from Fudan University in 2019 and 2022, respectively, working
-  with <a href="http://www.it.fudan.edu.cn/Data/View/1005/">Prof. Wei Chen</a> during my master’s studies.
+  Xiyuan Tang</a>. I received my B.Eng. and M.S. degrees from Fudan University in 2019 and 2022, respectively,
+  working with <a href="http://www.it.fudan.edu.cn/Data/View/1005/">Prof. Wei Chen</a> during my master’s studies.
 service: Reviewer for JSSC, SSCL, TCAS-AI, TNNSRE, and ISCAS.
 education:
 - year: '2026'
@@ -34,12 +33,12 @@ education:
 role: Senior Researcher
 employer: Huawei · Computing Product Line
 academic_research: My doctoral research focused on <strong>energy-efficient AI chips and systems</strong> through
-  algorithm–architecture–circuit co-design. I investigated SRAM/eDRAM-based computing-in-memory, approximate and
-  floating-point computing, adaptive dataflows, and design-space exploration, spanning circuit design, accelerator
-  architectures, and automated design tools. I led the design of <strong>six CIM accelerators, five of which were
-  taped out</strong>. Earlier, my master’s research focused on lightweight intelligent sensing systems, model compression,
-  and embedded inference.
-achievements: I have authored <strong>11 first- or co-first-author papers</strong>, including <strong>two co-first-author
-  papers</strong>, with publications in leading journals and conferences such as <strong>JSSC, TCAS-I, ICCAD, DATE,
-  and CICC</strong>. I received the <strong>National Scholarship (2025)</strong> and was named an <strong>Outstanding
-  Graduate of Beijing and Peking University (2026)</strong>. My research publications are listed below.
+  algorithm–architecture–circuit co-design. I investigated SRAM/eDRAM-based computing-in-memory, approximate
+  and floating-point computing, adaptive dataflows, and design-space exploration, spanning circuit design,
+  accelerator architectures, and automated design tools. I led the design of <strong>six CIM accelerators,
+  five of which were taped out</strong>. Earlier, my master’s research focused on lightweight intelligent sensing
+  systems, model compression, and embedded inference.
+achievements: I have published <strong>11 first-author papers (including two co-first-author papers)</strong>,
+  with publications in leading journals and conferences such as <strong>JSSC, TCAS-I, ICCAD, DATE, and CICC</strong>.
+  I received the <strong>National Scholarship (2025)</strong> and was named an <strong>Outstanding Graduate
+  of Beijing and Peking University (2026)</strong>. My research publications are listed below.
